@@ -24,3 +24,4 @@ Contents
 
    usage
    api
+   markdown
