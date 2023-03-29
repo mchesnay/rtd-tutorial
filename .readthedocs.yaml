@@ -10,7 +10,8 @@ python:
   install:
     - method: pip
       path: .
-      extra_requirements: myst_parser
+      extra_requirements: 
+        - myst_parser
    
 sphinx:
   fail_on_warning: true
